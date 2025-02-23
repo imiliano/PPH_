@@ -1,0 +1,39 @@
+{
+    "navegacion":{
+        "galeria":
+            "gallery"
+        ,
+        "contacto":
+            "contact"
+        ,
+        "reserva":
+            "reservation",
+        "carnet":
+        "youth hostel card"
+    },
+    "habitaciones":{
+        "titulo": "bedrooms",
+        "camas": "10, 8, 6 & 4 bedrooms per room <br> individual lockers <br> light, socket and shelf <br> air conditioning and heating"
+    },
+    "cocina":{
+        "cocina-title": "kitchen",
+        "cocina-descripcion":"refrigerator <br> freezer <br> ceramic hob <br> microwave <br> kitchen utensils <br> washing machine <br> dryer"
+    },
+    "salon":{
+        "salon-title":"living room",
+        "salon-descripcion": "tv <br> vending machine <br> coffee machine <br> table games"
+    },
+    "servicios":{
+        "servicios-title":"additional services",
+        "servicios-descripcion":"free wifi <br> terrace <br> bicycle parking <br> security cameras <br> luggage service (payment)"
+    },
+    "reserva":{
+        "reserva":"book now"
+    },
+    "carnet":{
+        "carnet-title": "Youth Hostel Card",
+        "carnet-description": "The Youth Hostel Card is an essential requirement to access any REAJ hostel (Spanish Network of Youth Hostels).",
+        "carnet-cost": "price -> 2,50 &euro;",
+        "carnet-obligatorio": "The youth hostel card is mandatory for those over 30 years of age."
+    }
+}

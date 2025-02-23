@@ -1,0 +1,37 @@
+{
+    "navegacion":{
+        "galeria":
+            "galeria",
+        "contacto":
+            "contacto",
+        "reserva":
+            "reserva",
+        "carnet":
+        "Carnet Alberguista"
+    },
+    "habitaciones":{
+        "titulo": "habitaciones",
+        "camas": "10, 8, 6 y 4 camas por habitación <br> taquillas individuales <br> luz, enchufe y balda <br> aire acondicionado y calefacción"
+    },
+    "cocina":{
+        "cocina-title": "cocina",
+        "cocina-descripcion":"frigorífico <br> congelador <br> vitrocerámica <br> microondas <br> menaje de cocina <br> lavadora <br> secadora"
+    },
+    "salon":{
+        "salon-title": "salón, comedor",
+        "salon-descripcion": "tv <br> máquina vending <br> máquina de café <br> juegos de mesa"
+    },
+    "servicios":{
+        "servicios-title":"servicios adicionales",
+        "servicios-descripcion":"wifi gratuito <br> terraza <br> parking de bicicletas <br> cámaras de seguridad <br> servicio de consignas (de pago)"
+    },
+    "reserva":{
+        "reserva":"reservar ahora"
+    },
+    "carnet":{
+        "carnet-title": "Carnet Alberguista",
+        "carnet-description": "El carnet de Alberguista es un requisito imprescindible para acceder a cualquier albergue REAJ (Red Española de Albergues Juveniles)",
+    "carnet-cost": "precio -> 2,50 &euro;",
+    "carnet-obligatorio":"El carnet de alberguista es obligatorio para mayores de 30 años."
+    }
+}

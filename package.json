@@ -1,0 +1,11 @@
+{
+  "name": "web-palma-port-hostel",
+  "version": "1.0.0",
+  "description": "palma port hostel web page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maximiliano rubino",
+  "license": "ISC"
+}

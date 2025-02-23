@@ -1,0 +1,37 @@
+{
+    "navegacion":{
+        "galeria":
+            "galerie",
+        "contacto":
+            "Kontakt",
+        "reserva":
+            "Reservierung",
+        "carnet":
+        "Jugendherbergsausweis"
+    },
+    "habitaciones":{
+        "titulo": "Schlafzimmer",
+        "camas": "10, 8, 6 & 4 Schlafzimmer pro Zimmer <br> einzelne Schließfächer <br> licht, Steckdose und Ablage <br> Klimaanlage und Heizung"
+    },
+    "cocina":{
+        "cocina-title": "Küche",
+        "cocina-descripcion":"Kühlschrank <br> Gefrierschrank <br> Cerankochfeld <br> Mikrowelle <br> Küchenutensilien <br> Waschmaschine <br> Trockner"
+    },
+    "salon":{
+        "salon-title":"Wohnzimmer",
+        "salon-descripcion": "tv <br> Verkaufsautomat <br> Kaffeemaschine <br> Brettspiele"
+    },
+    "servicios":{
+        "servicios-title":"Zusatzleitungen",
+        "servicios-descripcion":"wifi <br> Terrasse <br> Fahrradabstellplatz <br> Sicherheitskameras <br> Gepäckservice (Zahlung)"
+    },
+    "reserva":{
+        "reserva":"buchen Sie jetzt"
+    },
+    "carnet":{
+        "carnet-title": "Jugendherbergsausweis",
+        "carnet-description": "Der Jugendherbergsausweis ist eine Grundvoraussetzung für den Zutritt zu allen REAJ-Herbergen (Spanisches Netzwerk der Jugendherbergen).",
+        "carnet-cost": "Preis -> 2,50 &euro;",
+        "carnet-obligatorio": "Für Personen ab 30 Jahren ist die Hosteller Card Pflicht."
+    }
+}
